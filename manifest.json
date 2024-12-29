@@ -3,7 +3,7 @@
   "name": "Hello World Extension",
   "version": "1.0",
   "description": "A simple Chrome Extension to records dictionary find history to study English..",
-  "permissions": ["activeTab"],
+  "permissions": ["activeTab", "storage"],
   "background": {
     "service_worker": "background.js"
   },
