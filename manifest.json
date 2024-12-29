@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Hello World Extension",
   "version": "1.0",
-  "description": "A simple Chrome Extension to say Hello World.",
+  "description": "A simple Chrome Extension to records dictionary find history to study English..",
   "permissions": ["activeTab"],
   "background": {
     "service_worker": "background.js"
